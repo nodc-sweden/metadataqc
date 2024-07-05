@@ -1,5 +1,5 @@
 [project]
-name = "fyskemqc"
+name = "metadataqc"
 version = "2024.1"
 description = "Automatisk metadatakontroll av olika datatyper"
 authors = [
